@@ -1,0 +1,13 @@
+{
+    "name": "peter-sharp/spa-helper-plugin",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "peter-sharp",
+            "email": "Peter@petersharp.co.nz"
+        }
+    ],
+    "require": {
+        "mustache/mustache": "^2.11"
+    }
+}
