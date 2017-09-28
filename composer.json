@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "mustache/mustache": "^2.11"
+        "mustache/mustache": "^2.12"
     }
 }
